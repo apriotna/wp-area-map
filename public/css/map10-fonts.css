@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'UtopiaStd';
+  src: url('../fonts/UtopiaStd-Regular.woff') format('woff'),
+       url('../fonts/UtopiaStd-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UtopiaStd';
+  src: url('../fonts/UtopiaStd-Italic.woff') format('woff'),
+       url('../fonts/UtopiaStd-Italic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'UtopiaStd';
+  src: url('../fonts/UtopiaStd-Semibold.woff') format('woff'),
+       url('../fonts/UtopiaStd-Semibold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UtopiaStd';
+  src: url('../fonts/UtopiaStd-Bold.woff') format('woff'),
+       url('../fonts/UtopiaStd-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
