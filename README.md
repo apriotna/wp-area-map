@@ -8,7 +8,7 @@ Interactive WordPress map plugin with polygon areas, locations, and category fil
 - Custom marker icons per location
 - Info box with description, image, and link
 - Embeddable via iframe
-- Shortcode: `[wp-area-map id="123"]`
+- Shortcode: `[map10 id="123"]`
 
 ## Installation
 1. Download the plugin zip
@@ -19,7 +19,7 @@ Interactive WordPress map plugin with polygon areas, locations, and category fil
 1. Create categories under **Maps → Categories**
 2. Add locations under **Maps → Locations**
 3. Create a map under **Maps → Add Map**
-4. Use shortcode `[wp-area-map id="MAP_ID"]` on any page
+4. Use shortcode `[map10 id="MAP_ID"]` on any page
 
 ## Requirements
 - WordPress 6.0+
